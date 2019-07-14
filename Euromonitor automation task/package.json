@@ -1,0 +1,11 @@
+{
+    "name": "test",
+    "version": "1.0.0",
+    "description": "Euromintor project",
+    "main": "src/main.js",
+
+    "dependencies": {
+        "protractor": "^5.4.2",
+        "jasmine": "^3.4.0"
+      }
+  }
